@@ -1,4 +1,4 @@
-KITAMI, Anri
-20631269
+AMAMIYA, Ouse
+01234567
 
 ![Deleted LibraryTest.java](DeletedLibraryTest.png)
